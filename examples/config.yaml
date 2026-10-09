@@ -1,0 +1,15 @@
+# Example studio config: options are keyed by check id.
+disabled: []
+plugin_dirs: [plugins]
+
+naming.convention:
+  mesh_pattern: "^[a-z][A-Za-z0-9]*(_[A-Za-z0-9]+)*_GEO$"
+
+transform.pivot:
+  mode: bottom_center
+
+lod.budget:
+  budgets: {LOD0: 2000, LOD1: 200}
+
+uv.range:
+  allow_udim: true
