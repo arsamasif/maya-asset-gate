@@ -1,6 +1,6 @@
 name = "asset_gate"
 
-version = "1.0.0"
+version = "0.1.0"
 
 authors = ["Arsam Ali"]
 

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "asset-gate"
-version = "1.0.0"
+version = "0.1.0"
 description = "Validate-then-publish gate for Maya assets, ending in a USD component asset."
 readme = "README.md"
 license = { text = "MIT" }
